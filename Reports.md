@@ -1,20 +1,20 @@
-# 5/16/16
+### 5/16/16
 * Learned about BFO through slides
 * Listened to both lectures on BFO
 * Downloaded TortoiseSVN, Protege
 * Looked at OBI core with Protege
 
-5/17/16
+### 5/17/16
 * Started learning Java
 * Checked out TortoiseSVN
 * Read OBI paper
 
-5/18/16
+### 5/18/16
 * Learned more Java
 * Separated headers for the assays
 * Looked at assay excel sheets + notes
 
-5/19/16
+### 5/19/16
 * Java
 * Learned what OBO Foundry is
 * Need detailed plan for next week
@@ -22,21 +22,21 @@
 * Count lines, count frequencies of words
 * Read & write 1 file
 
-5/20/16
+### 5/20/16
 * Java
   * String Builder and String Formatting
   * toString Method 
   * Inheritance
   * Word Extractor
 
-5/21/16
+### 5/21/16
 *Java 
   * Word Extractor
   * Line Count
   * CMap Tools
   * Assay CMaps
 
-5/23/16
+### 5/23/16
 * Learned what OWL-API is 
 * Looked at specific examples of assays
 * Java 
@@ -46,7 +46,7 @@
   * Polymorphism
 * Downloaded Github Shell
 
-5/24/16
+### 5/24/16
 * Reviewed OBO Foundry 
 * Learned about OBI
 * Assay design
@@ -57,13 +57,13 @@
   *Casting numerical values
   *Upcasting and Downcasting
 
-5/25/16
+### 5/25/16
 * Plan report
 * Assay terms
 * OWL API
 * Meeting about applying ontology to cancer
 
-5/26/16
+### 5/26/16
 * Assay terms
 * Learned that analyte role stays as analyte role
 
