@@ -67,3 +67,24 @@
 * Assay terms
 * Learned that analyte role stays as analyte role
 
+### 5/27/16
+*Assay terms
+*Java
+ *Generics
+ *Wildcards
+
+###5/30/16
+*Assay terms
+*Java
+ *Anonymous Classes
+ *Reading Files Using Scanner
+
+###6/1/16
+*Assay terms
+*Java
+ *Handling exceptions
+ *Multiple exceptions
+ *Runtime vs. Checked exceptions
+*Updated GitHub
+
+
