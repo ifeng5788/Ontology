@@ -54,8 +54,8 @@
 * Delete and add terms to Protege
 * Java
   * Encapsulation
-  *Casting numerical values
-  *Upcasting and Downcasting
+  * Casting numerical values
+  * Upcasting and Downcasting
 
 ### 5/25/16
 * Plan report
@@ -87,4 +87,35 @@
  * Runtime vs. Checked exceptions
 * Updated GitHub
 
+###6/2/16
+* Assay terms
+* Java
+ * Abstract classes
+ * Reading files with file reader
 
+###6/3/16
+* Assay terms
+* Java
+ * Try with resources
+ * Creating and writing files
+ 
+###6/6/16
+* Assay terms
+* Meeting
+ * Observation: Is it an assay or part of assay?
+ * Conclusion: Observation (process) is an assay
+ * Machine vs. Human observation -- touched upon briefly
+ * Discussion about specimens
+* Will have to present at some point
+
+### 6/7/16
+* One final check for assay terms
+* Added content to README.md
+* Looked at some OWL API code
+* Started assay write up
+
+### 6/8/16
+* Received updated assay file
+* Separated into OBI and IEDB assays
+* Added information to updated assay excel sheet
+* Added information for new assay terms
