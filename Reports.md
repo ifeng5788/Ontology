@@ -119,3 +119,22 @@
 * Separated into OBI and IEDB assays
 * Added information to updated assay excel sheet
 * Added information for new assay terms
+
+### 6/9/16
+* Assay terms
+* Started correcting grammar and typos
+
+### 6/21/16
+* Assay terms
+* Received code to retrieve assay terms
+
+### 6/22/16
+* Assay terms
+
+### 6/23/16
+* Assay terms
+* Formatted excel sheet
+
+### 6/24/16
+* Assay terms
+* Finished looking over definitions
