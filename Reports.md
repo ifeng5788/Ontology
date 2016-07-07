@@ -138,3 +138,26 @@
 ### 6/24/16
 * Assay terms
 * Finished looking over definitions
+
+### 6/27/16
+* Assay terms
+* Fixed input axioms
+* OBI Dev Call
+
+### 6/28/16
+* Assay report
+
+### 6/29/16
+* Assay report
+
+### 6/30/16
+* Finished assay report
+
+### 7/1/16
+* Started working on java doc
+
+### 7/5/16
+* Java doc
+
+### 7/6/16
+* Revision of assay report
